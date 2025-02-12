@@ -32,7 +32,7 @@ In this activity, you'll practice working with branches in Git, which is a core 
    ```bash
    git push origin feature/<your-name>
    ```
-8. Type: `git log`. Take a screenshot of the output.
+7. Type: `git log`. Take a screenshot of the output.
 
 ---
 
@@ -68,13 +68,13 @@ In this activity, you'll practice working with branches in Git, which is a core 
    ```bash
    git push 
    ```
-11. Type: `git log`. Take a screenshot of the output.
-12. Go to the repository's page on GitHub and select Pull requests.
-13. Then click the button to create a New pull request to merge the `feature/<teammate-name>` branch into the `main` branch of the original repository.
+15. Type: `git log`. Take a screenshot of the output.
+16. Go to the repository's page on GitHub and select Pull requests.
+17. Then click the button to create a New pull request to merge the `feature/<teammate-name>` branch into the `main` branch of the original repository.
 <img width="1482" alt="Screenshot 2025-02-12 at 10 21 04" src="https://github.com/user-attachments/assets/b8682b15-39fa-492e-90fc-bfe38f2b0504" />
 
-14. Submit the PR and have your teammate review/approve your changes.
-15. After the PR is approved, merge the feature branch. 
+18. Submit the PR and have your teammate review/approve your changes.
+19. After the PR is approved, merge the feature branch. 
 
 ---
 
