@@ -57,13 +57,14 @@ In this activity, you'll practice working with branches in Git, which is a core 
    git checkout feature/<teammate-name>
    ```
 10. Open the main.py file. If using VS code then you can open the repository as the current project and navigate to the file using explorer.
-11. Update the main.py file by placing/converting the existing python code into a function. Save your changes.
-12. Stage and commit the changes with the message:
+11. Update the main.py file by placing/converting the existing python code into a properly formatted script.
+12. Place the current code into a function. Add a main method. Invoke the function via the main method and confirm it works. Then, save your changes.
+13. Stage and commit the changes with the message:
     ```bash
     git add <filename>
     git commit -m "Converted code in <filename> to a function."
     ```
-13. Push your changes to the feature branch.
+14. Push your changes to the feature branch.
    ```bash
    git push 
    ```
